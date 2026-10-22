@@ -1,0 +1,27 @@
+﻿# Private credentials and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+
+# Runtime logs and local data
+logs/
+raw/
+config/airflow.cfg
+scripts/
+archive_dags
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local secrets and certificates
+*.pem
+*.key
+.ps1/scripts/
+/archive_dags/
+src/
+tests/
+config/

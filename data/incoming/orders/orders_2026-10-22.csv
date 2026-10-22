@@ -1,0 +1,4 @@
+order_id,customer_id,order_ts,order_status,total_amount,currency
+ORD-20261022-001,CUST-001,2026-10-22T09:15:00+05:30,completed,1499.00,INR
+ORD-20261022-002,CUST-002,2026-10-22T10:20:00+05:30,completed,899.00,INR
+ORD-20261022-003,CUST-003,2026-10-22T11:35:00+05:30,completed,2499.00,INR

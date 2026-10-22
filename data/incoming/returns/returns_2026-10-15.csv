@@ -1,0 +1,4 @@
+return_id,order_id,return_status,return_created_at,expected_refund_amount,currency
+RET-DEMO-5001,ORD-DEMO-1002,approved,2026-10-15 10:00:00+05:30,799.00,INR
+RET-DEMO-5002,ORD-DEMO-1004,approved,2026-10-15 11:00:00+05:30,100.00,INR
+RET-DEMO-5003,ORD-DEMO-8888,approved,2026-10-15 12:00:00+05:30,250.00,INR

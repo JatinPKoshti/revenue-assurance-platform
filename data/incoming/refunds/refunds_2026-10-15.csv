@@ -1,0 +1,4 @@
+refund_id,order_id,payment_id,provider,refund_status,refund_amount,currency,refund_ts
+RFD-DEMO-6001,ORD-DEMO-1002,PAY-DEMO-2002,DemoPay,succeeded,799.00,INR,2026-10-15 13:00:00+05:30
+RFD-DEMO-6002,ORD-DEMO-1004,PAY-DEMO-2004,DemoPay,succeeded,50.00,INR,2026-10-15 14:00:00+05:30
+RFD-DEMO-6003,ORD-DEMO-1001,PAY-DEMO-2001,DemoPay,succeeded,50.00,INR,2026-10-15 15:00:00+05:30

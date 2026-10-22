@@ -1,0 +1,4 @@
+payment_id,order_id,provider,provider_transaction_id,payment_status,amount,currency,payment_ts
+PAY-20261022-001,ORD-20261022-001,Razorpay,TXN-20261022-001,captured,1499.00,INR,2026-10-22T09:16:00+05:30
+PAY-20261022-002,ORD-20261022-002,Razorpay,TXN-20261022-002,captured,899.00,INR,2026-10-22T10:21:00+05:30
+PAY-20261022-003,ORD-20261022-003,Razorpay,TXN-20261022-003,captured,2499.00,INR,2026-10-22T11:36:00+05:30

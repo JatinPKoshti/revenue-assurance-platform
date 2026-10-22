@@ -1,0 +1,4 @@
+shipment_id,order_id,carrier,shipment_status,shipped_at,delivered_at,promised_delivery_date
+SHP-20261022-001,ORD-20261022-001,Delhivery,delivered,2026-10-22T09:45:00+05:30,2026-10-22T13:00:00+05:30,2026-10-22
+SHP-20261022-002,ORD-20261022-002,BlueDart,in_transit,2026-10-22T11:00:00+05:30,,2026-10-24
+SHP-20261022-003,ORD-20261022-003,Delhivery,delivered,2026-10-22T12:00:00+05:30,2026-10-22T15:15:00+05:30,2026-10-22

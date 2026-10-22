@@ -1,0 +1,2 @@
+return_id,order_id,return_status,return_created_at,expected_refund_amount,currency
+RET-20261022-001,ORD-20261022-001,approved,2026-10-22T16:10:00+05:30,199.00,INR
